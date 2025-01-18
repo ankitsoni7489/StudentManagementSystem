@@ -1,4 +1,4 @@
-Login Password for student how are in my database
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,43 +7,46 @@ Login Password for student how are in my database
     <title>Table Example</title>
 </head>
 <body>
-    <table border="1" cellspacing="0" cellpadding="10">
+    
+<h1>Login Password for student how are in my database. </h1>
+<table border="1" cellspacing="0" cellpadding="10">
         <thead>
             <tr>
-                <th>Column 1</th>
-                <th>Column 2</th>
-                <th>Column 3</th>
+                <th>Username</th>
+                <th>Password</th>
+                <th>Student</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Row 1, Col 1</td>
-                <td>Row 1, Col 2</td>
-                <td>Row 1, Col 3</td>
+                <td>Aarav Sharma</td>
+                <td>password123</td>
+                <td>Studetn 1</td>
             </tr>
             <tr>
-                <td>Row 2, Col 1</td>
-                <td>Row 2, Col 2</td>
-                <td>Row 2, Col 3</td>
+                <td>Ananya Patel</td>
+                <td>password123</td>
+                <td>Studetn 2</td>
             </tr>
             <tr>
-                <td>Row 3, Col 1</td>
-                <td>Row 3, Col 2</td>
-                <td>Row 3, Col 3</td>
+                <td>Devansh Verma</td>
+                <td>password123</td>
+                <td>Studetn 3</td>
             </tr>
             <tr>
-                <td>Row 4, Col 1</td>
-                <td>Row 4, Col 2</td>
-                <td>Row 4, Col 3</td>
+                <td>Isha Nair</td>
+                <td>password123</td>
+                <td>Studetn 4</td>
             </tr>
             <tr>
-                <td>Row 5, Col 1</td>
-                <td>Row 5, Col 2</td>
-                <td>Row 5, Col 3</td>
+                <td>Rohan Gupta</td>
+                <td>password123</td>
+                <td>Studetn 5</td>
             </tr>
         </tbody>
     </table>
 </body>
 </html>
+
 
 				
